@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+
+#container{
+    text-align: center;
+    background-color: beige;
+    border-width: 2px;
+}
+
+#submit{
+    margin-top: 20px;
+
+}
+p{
+    text-align: center;
+}
+
+.in{
+    text-align: center;
+}
